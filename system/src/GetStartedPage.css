@@ -1,0 +1,16 @@
+/* GetStartedPage.css */
+.get-started-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.get-started-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.get-started-button {
+  padding: 8px 16px;
+  font-size: 16px;
+  margin-top: 20px;
+}
